@@ -7,7 +7,9 @@
 // and doing it for billionaires' yacht parties — as if the ultra-rich hire
 // staff to manage penguins at sea — is the picture that lands on the
 // first read. "Senior" makes it read like a genuine posting; the twist
-// makes it funny. Nothing else is in the file.
+// makes it funny. Nothing else is in the file. The title is 55 characters
+// (all ASCII, so 55 bytes), comfortably inside the 60-character gate,
+// and short enough to take in at a glance.
 //
 // The program writes exactly that one line to /output/entry.txt.
 
